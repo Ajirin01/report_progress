@@ -1,9 +1,8 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
- <o:MainFile HRef="../Learning%20to%20Read.htm"/>
+ <o:MainFile HRef="../Learning%20to%20Read%20form%20copy.htm"/>
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="colorschememapping.xml"/>
- <o:File HRef="image001.emz"/>
- <o:File HRef="image004.png"/>
- <o:File HRef="image005.png"/>
+ <o:File HRef="image001.png"/>
+ <o:File HRef="editdata.mso"/>
  <o:File HRef="filelist.xml"/>
 </xml>
